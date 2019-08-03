@@ -12,5 +12,8 @@ We use MySQL to load the data. Pythong: sqlalchemy
 
 ## Visualize
 We create a website to show the relationship between the three companies and the adjacent businesses using a map that allows a user to select the types of adjacent businesses on the map. Html: bootstrap, css, JS: leaflet, d3
+![Select Fitness Classes](/static/headquarter_location_influence_fitness_classes_selected.png)
+![Select Special Event Beer and Wine](/static/headquarter_location_influence_special_event_beer_and_wine_selected.png)
+
 
 
